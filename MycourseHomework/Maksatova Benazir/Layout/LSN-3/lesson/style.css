@@ -1,0 +1,80 @@
+ul {
+  list-style-type: none;
+  /* list-style-type: square; */
+  /* list-style-image: url(https://png.pngtree.com/png-clipart/20210308/original/pngtree-bubble-chat-text-background-stickers-png-image_5730042.jpg); */
+}
+
+.inside {
+  list-style-position: inside;
+}
+table {
+  border: 1px solid #ccc;
+  border-spacing: 10px;
+}
+
+tr,
+th {
+  border: 1px solid #ccc;
+  text-align: start;
+  vertical-align: center;
+}
+
+.collapsed {
+  border-collapse: separate;
+}
+
+.shop {
+  empty-cells: hide;
+  table-layout: fixed;
+  width: 500px;
+  height: 200px;
+}
+
+.one {
+  padding: 50px;
+  border: 1px solid #000;
+  margin: 10px;
+}
+
+.two {
+  /* margin: 10px 5px 15px 20px; */
+  margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
+.lorem {
+  /* border-width: 1px;
+  border-style: solid;
+  border-color: #000; */
+  border-top: 2px;
+  border-right: 5px dashed red;
+
+  /* border-top-width: 20px;
+  border-top-style: solid;
+  border-top-color: red;
+  border-bottom-style: dashed;
+  border-top-left-color: aqua; */
+}
+
+.radius {
+  border: 1px solid black;
+  border-radius: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 5px;
+
+  padding: 20px 10px 20px 10px;
+}
+
+.div {
+  margin: solid;
+}
+.block1 {
+  background-color: red;
+  box-sizing: border-box;
+}
+.block2 {
+  background-color: aqua;
+}

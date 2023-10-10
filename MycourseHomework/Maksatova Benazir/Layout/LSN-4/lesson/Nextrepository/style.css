@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+/* header {
+  height: 50px;
+  background: violet;
+}
+
+.left {
+  margin-top: 10px;
+  height: 200px;
+  background-color: aqua;
+  float: left;
+  border: 1px solid #000;
+  width: 150px;
+}
+.right {
+  margin-top: 10px;
+  height: 200px;
+  background-color: aqua;
+  float: right;
+  border: 1px solid #000;
+  width: 150px;
+}
+
+main {
+  margin-top: 10px;
+  height: 100px;
+  background-color: aqua;
+}
+
+footer {
+  margin-top: 10px;
+  height: 200px;
+  background-color: aqua;
+  clear: both;
+} */
+
+/* li {
+  list-style: none;
+  border: 1px solid #000;
+  float: left;
+  margin-left: 5px;
+  padding: 5px;
+}
+li:hover {
+  background: aqua;
+  color: aliceblue;
+  /* box-shadow: 5px 3px 5px 4px forestgreen;
+  border: 1px solid #000; */
+/* outline: auto; */
+/* }
+a {
+  text-decoration: none;
+  color: #000;
+}
+a:hover {
+  background: darkcyan;
+  color: black; */
+
+/* main {
+  background-color: lightcoral;
+}
+.left {
+  width: ;
+}
+.right {
+  width: ;
+}
+.d-rith {
+  width: 150px;
+  height: 100px;
+  background: lawngreen;
+} */
+.block-default {
+  background: darkcyan;
+}
